@@ -17,6 +17,11 @@ public class Main {
         System.out.println("Nombre gato: " + gato1.getNombre());
         System.out.println("Edad gato: " + gato1.getEdad());
         gato1.hacerSonido();
+
+
+
+
+
     }
 
 }
